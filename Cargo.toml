@@ -106,5 +106,3 @@ default-features = false
 
 [patch.crates-io]
 ffmpeg-sys = { git="https://github.com/headless-studio/rust-ffmpeg-sys" }
-
-postprocessing      = ["ffmpeg-sys/postproc"]
